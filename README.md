@@ -1,1 +1,2 @@
-//*This is a simple README.md which is required in all Holberton projects//*
+
+I'm now a Holberton Student, this is my first repository as a full-stack engineer
